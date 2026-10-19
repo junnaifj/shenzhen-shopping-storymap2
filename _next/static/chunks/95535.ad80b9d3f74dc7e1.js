@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[95535],{95535:(e,l,a)=>{a.r(l),a.d(l,{default:()=>c});var r=a(406029),s=a(455729),h=a(903844),t=a(861689);let u=(0,s.memo)(e=>(0,r.jsx)(r.Fragment,{children:"hello world"}));u.displayName="JourneyPlaceViewer";let c=(0,t.A)((0,h.hB)(u))}}]);

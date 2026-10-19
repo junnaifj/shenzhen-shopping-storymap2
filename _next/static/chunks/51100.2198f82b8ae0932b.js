@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[51100],{851100:(e,s,c)=>{c.r(s),c.d(s,{WebScene:()=>r,default:()=>a});var n=c(870811),t=c(965959),u=c(481528);class r extends t.A{constructor(e){super(e,u._.webScene)}}let a=(0,n.nd)(r)}}]);

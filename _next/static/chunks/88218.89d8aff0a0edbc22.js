@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[88218],{288218:(e,r,s)=>{s.r(r),s.d(r,{CarouselBuilder:()=>n,default:()=>d});var l=s(406029),t=s(455729),u=s(225078);class n extends t.PureComponent{render(){return(0,l.jsx)(u.default,{...this.props,children:this.props.children})}}let d=n}}]);
